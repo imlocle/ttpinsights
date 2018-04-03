@@ -1,11 +1,11 @@
-,BusinessName,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
-0,Mister Brown’s Barber Shop,394 reviews,$$,Moderate,"3064 University AveSan Diego, CA 92104",(619) 501-8407,misterbrowns.com
-1,The Barber Side Barber Shop,340 reviews,$,Inexpensive,"3506 Adams AveSan Diego, CA 92116",(619) 347-1057,barberside.com
-2,Goodfellas Barbershop Shave Parlor,128 reviews,$$,Moderate,"2035 University AveSan Diego, CA 92104",(619) 230-5301,no website
-3,Dame & Dapper Barber Shop,74 reviews,$$,Moderate,"322 1/2 W Washington StSan Diego, CA 92103",(619) 886-1519,dameanddappersd.com
-4,Brother’s Barber Shop,267 reviews,$,Inexpensive,"11395 Poway RdSan Diego, CA 92128",(858) 668-3372,no website
-5,Classic Cuts Barber Shop,117 reviews,$$,Moderate,"8555 Station Village WaySte DSan Diego, CA 92108",(619) 684-5871,classiccutssd.com
-6,Pappy’s Barber Shop,179 reviews,$$,Moderate,"6528 El Cajon BlvdSan Diego, CA 92115",(619) 885-2887,pappysbarbershop.com
-7,Debonair Barber and Shave Parlor,160 reviews,$$,Moderate,"730 Market StSan Diego, CA 92101",(619) 431-5552,no website
-8,BLKHRT Barbershop,48 reviews,$$,Moderate,"1952 Balboa AveSan Diego, CA 92109",(858) 735-7466,blkhrt.com
-9,Rawknykz Barber Shop,131 reviews,$,Inexpensive,"8690 Aero DrSte 106San Diego, CA 92123",(858) 278-1530,rawknykzbarbers.com
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,Mister Brown’s Barber Shop,Barbers,5.0 star rating,394 reviews,$$,Moderate,"3064 University AveSan Diego, CA 92104",(619) 501-8407,misterbrowns.com
+1,The Barber Side Barber Shop,Barbers,4.5 star rating,340 reviews,$,Inexpensive,"3506 Adams AveSan Diego, CA 92116",(619) 347-1057,barberside.com
+2,Goodfellas Barbershop Shave Parlor,Barbers,5.0 star rating,128 reviews,$$,Moderate,"2035 University AveSan Diego, CA 92104",(619) 230-5301,no website
+3,Dame & Dapper Barber Shop,Barbers,5.0 star rating,74 reviews,$$,Moderate,"322 1/2 W Washington StSan Diego, CA 92103",(619) 886-1519,dameanddappersd.com
+4,Brother’s Barber Shop,Barbers,4.5 star rating,267 reviews,$,Inexpensive,"11395 Poway RdSan Diego, CA 92128",(858) 668-3372,no website
+5,Classic Cuts Barber Shop,Barbers,4.5 star rating,117 reviews,$$,Moderate,"8555 Station Village WaySte DSan Diego, CA 92108",(619) 684-5871,classiccutssd.com
+6,Pappy’s Barber Shop,Barbers,5.0 star rating,180 reviews,$$,Moderate,"6528 El Cajon BlvdSan Diego, CA 92115",(619) 885-2887,pappysbarbershop.com
+7,Debonair Barber and Shave Parlor,Barbers,5.0 star rating,160 reviews,$$,Moderate,"730 Market StSan Diego, CA 92101",(619) 431-5552,no website
+8,BLKHRT Barbershop,Barbers,5.0 star rating,48 reviews,$$,Moderate,"1952 Balboa AveSan Diego, CA 92109",(858) 735-7466,blkhrt.com
+9,Rawknykz Barber Shop,Barbers,4.5 star rating,131 reviews,$,Inexpensive,"8690 Aero DrSte 106San Diego, CA 92123",(858) 278-1530,rawknykzbarbers.com
