@@ -1,0 +1,16 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,Omar the Barber,Barbers,4.5 star rating,303 reviews,$,Inexpensive,"13925 Yale AveKija Hair SalonIrvine, CA 92620",(714) 618-1133,omarthebarber.com
+1,Danckuts,Barbers,4.5 star rating,303 reviews,$$,Moderate,Located inTrabuco Plaza,(949) 400-0444,danckuts.com
+2,Stonecreek Plaza Barber Shop,Barbers,5.0 star rating,132 reviews,$,Inexpensive,Located inStonecreek Plaza,(949) 786-6404,stonecreekplazabarbershop.com
+3,Justin’s Fades & Hairstyles,Barbers,5.0 star rating,44 reviews,$$,Moderate,"4330 Barranca PkwySte 105Irvine, CA 92604",(949) 973-1601,justins-fadeshairstyles.busin…
+4,Hair Days,Hair Salons,4.5 star rating,160 reviews,$$,Moderate,"14231 Jeffrey RdIrvine, CA 92620",(949) 733-3700,hairdaysbeauty.com
+5,The Sharper Look,"Hair Salons,
+                    Skin Care,
+                    Eyebrow Services",5.0 star rating,63 reviews,$$,Moderate,"15333 Culver DrSte 21Irvine, CA 92604",(949) 829-3288,thesharperlook.com
+6,Roosters Men’s Grooming Center,Barbers,4.0 star rating,168 reviews,$$,Moderate,"5405 Alton Pkwy Ste DIrvine, CA 92604",(949) 551-5909,roostersmgc.com
+7,Made Man Salon,"Men's Hair Salons,
+                    Waxing,
+                    Skin Care",5.0 star rating,23 reviews,$$,Moderate,"2801 El Camino RealSte 28Tustin, CA 92782",(949) 290-8122,mademansalon.com
+8,Sand Canyon Barber,Barbers,3.5 star rating,91 reviews,$$,Moderate,"6642 Irvine Center DrIrvine, CA 92618",(949) 727-3000,sandcanyonbarbershop.com
+9,Sport Clips Haircuts of Irvine,"Barbers,
+                    Men's Hair Salons",4.0 star rating,187 reviews,$$,Moderate,"6274 Irvine BlvdIrvine, CA 92620",(949) 748-8228,haircutmenirvineca.com
