@@ -1,0 +1,16 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,KEMPT Men’s Hair,"Barbers,
+                    Men's Hair Salons,
+                    Hair Stylists",5.0 star rating,56 reviews,$$,Moderate,"2222 Michelson DrSte 224Irvine, CA 92612",(949) 637-7777,kemptmenshair.com
+1,PRESS Men’s Hair,Men's Hair Salons,4.5 star rating,143 reviews,$$,Moderate,"2300 SE Bristol StNewport Beach, CA 92660",(949) 274-9995,pressmenshairsalonorangecount…
+2,Danckuts,Barbers,4.5 star rating,302 reviews,$$,Moderate,Located inTrabuco Plaza,(949) 400-0444,danckuts.com
+3,Omar the Barber,Barbers,4.5 star rating,303 reviews,$,Inexpensive,"13925 Yale AveKija Hair SalonIrvine, CA 92620",(714) 618-1133,omarthebarber.com
+4,Hair Days,Hair Salons,4.5 star rating,160 reviews,$$,Moderate,"14231 Jeffrey RdIrvine, CA 92620",(949) 733-3700,hairdaysbeauty.com
+5,The Sharper Look,"Hair Salons,
+                    Skin Care,
+                    Eyebrow Services",5.0 star rating,63 reviews,$$,Moderate,"15333 Culver DrSte 21Irvine, CA 92604",(949) 829-3288,thesharperlook.com
+6,Brian Guy Studio 14,Hair Stylists,5.0 star rating,494 reviews,$$,Moderate,"15333 Culver DrSte 200Sola SalonIrvine, CA 92604",(949) 441-6732,brianguystudio14.com
+7,Bespoke Tailored Men’s Haircare,Men's Hair Salons,5.0 star rating,25 reviews,$$,Moderate,"15333 Culver DrSte 200Irvine, CA 92604",(949) 735-1529,no website
+8,Hair by Marc Jung,"Hair Stylists,
+                    Hair Extensions",5.0 star rating,36 reviews,$$,Moderate,"2801 El Camino RealRoom 18Sola SalonTustin, CA 92782",(949) 812-9111,no website
+9,Salon De Tommy Huynh,Hair Salons,4.5 star rating,141 reviews,$$,Moderate,"15333 Culver DrSte 200Irvine, CA 92604",(714) 613-2145,solasalonstudios.com/salon-pr…
