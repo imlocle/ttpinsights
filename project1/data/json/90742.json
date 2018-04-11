@@ -1,0 +1,112 @@
+[
+    {
+        "BusinessName": "Harbor Barber",
+        "BusinessCategory": "Barbers",
+        "YelpRating": "5.0 star rating",
+        "ReviewCount": "178 reviews",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "17212 Pacific Coast HwySte BHuntington Beach, CA 92649",
+        "Phone": "(714) 907-0232",
+        "Website": "harborbarberhb.com"
+    },
+    {
+        "BusinessName": "Main Street Barber Shop",
+        "BusinessCategory": "Barbers",
+        "YelpRating": "4.5 star rating",
+        "ReviewCount": "96 reviews",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "317 1/2 Main StSeal Beach, CA 90740",
+        "Phone": "(562) 430-0236",
+        "Website": "no website"
+    },
+    {
+        "BusinessName": "Springdale Barbers",
+        "BusinessCategory": "Barbers",
+        "YelpRating": "4.5 star rating",
+        "ReviewCount": "52 reviews",
+        "PriceRange($)": "$",
+        "PriceCategory": "Inexpensive",
+        "Address": "15792 Springdale StHuntington Beach, CA 92649",
+        "Phone": "(714) 901-7110",
+        "Website": "no website"
+    },
+    {
+        "BusinessName": "Hair Safari",
+        "BusinessCategory": "Barbers",
+        "YelpRating": "5.0 star rating",
+        "ReviewCount": "58 reviews",
+        "PriceRange($)": "$",
+        "PriceCategory": "Inexpensive",
+        "Address": "5931 Warner AveHuntington Beach, CA 92649",
+        "Phone": "(714) 840-1877",
+        "Website": "hairsafari.com"
+    },
+    {
+        "BusinessName": "Marina Clipper Barber Shop",
+        "BusinessCategory": "Barbers",
+        "YelpRating": "5.0 star rating",
+        "ReviewCount": "1 review",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "1081 Pacific Coast HwySeal Beach, CA 90740",
+        "Phone": "(562) 431-9369",
+        "Website": "no website"
+    },
+    {
+        "BusinessName": "Mario\u2019s Sports Barbershop",
+        "BusinessCategory": "Barbers",
+        "YelpRating": "4.0 star rating",
+        "ReviewCount": "22 reviews",
+        "PriceRange($)": "$",
+        "PriceCategory": "Inexpensive",
+        "Address": "14900 Springdale StHuntington Beach, CA 92647",
+        "Phone": "(714) 901-2350",
+        "Website": "mariossportsbarbershop.com"
+    },
+    {
+        "BusinessName": "The End Result",
+        "BusinessCategory": "Barbers,\n                    Hair Salons",
+        "YelpRating": "4.5 star rating",
+        "ReviewCount": "12 reviews",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "14022 Rancho RdWestminster, CA 92683",
+        "Phone": "(714) 892-0313",
+        "Website": "no website"
+    },
+    {
+        "BusinessName": "Studio Fifty Fifty",
+        "BusinessCategory": "Hair Salons,\n                    Nail Salons,\n                    Eyelash Service",
+        "YelpRating": "4.5 star rating",
+        "ReviewCount": "390 reviews",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "5050 Heil AveHuntington Beach, CA 92649",
+        "Phone": "(714) 840-9777",
+        "Website": "studiofiftyfifty.com"
+    },
+    {
+        "BusinessName": "Salon M",
+        "BusinessCategory": "Hair Salons",
+        "YelpRating": "4.5 star rating",
+        "ReviewCount": "129 reviews",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "16561 Bolsa Chica StSte 203Huntington Beach, CA 92649",
+        "Phone": "(714) 377-1000",
+        "Website": "salon-m.net"
+    },
+    {
+        "BusinessName": "Salon Meritage",
+        "BusinessCategory": "Hair Salons,\n                    Eyebrow Services,\n                    Waxing",
+        "YelpRating": "5.0 star rating",
+        "ReviewCount": "49 reviews",
+        "PriceRange($)": "$$",
+        "PriceCategory": "Moderate",
+        "Address": "500 E Pacific Coast HwySte 100Seal Beach, CA 90740",
+        "Phone": "(562) 493-2639",
+        "Website": "salonmeritage.com"
+    }
+]
