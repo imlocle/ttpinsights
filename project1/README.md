@@ -31,7 +31,7 @@ We'll display our predictions through a dynamic, interactive Shiny Dashboard.
 * #### Local barbershops will able to answer the following:
 
     * The importance of price, convenience, atmosphere and products.
-    * The average amount men spend on haircuts.
+    * The average price spent haircuts.
     * The frequency of haircuts / visits to the barbershop.
     * The proximity of barbershop to residence and or work. 
 
