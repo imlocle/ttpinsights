@@ -4,8 +4,9 @@
 ### Team Members:
 * Andy Felicitas
 * Jay Mandavia
-* Tommy Steed
 * Lorenzo Yniguez
+* Tommy Steed
+
 <hr>
 
 ![title](images/barbershop.jpg)
@@ -13,9 +14,9 @@
 
 ### Objective
 
-To some, barbershops may seem like a thing of the past. Today, with the ubiquity of the hipster movement: edgy hairstyles, beards and whisky, a resurgence of barbershops is occurring throughout the states.  By 2020, the industry is estimated to reach $26B and many barbershops, salons and men's grooming centers are trying to find their space within this growing market. 
+To some, barbershops may seem like a thing of the past. However, with the ubiquity of the hipster movement: edgy hairstyles,beards and whisky, a resurgence of barbershops is occurring throughout the states.  By 2020, the industry is estimated to reach $26B and many barbershops, salons and men's grooming centers are trying to find their space within this growing market. 
 
-For our project, we decided to create a barber shop recommender system based on demographics and yelp reviews. Our goal is to create actionable insights that local barbers can use to grow and improve their businesses.
+For our project, we're developing a barber shop recommender system based on demographics and yelp reviews. Our goal is to create actionable insights that local barbers can use to grow and improve their businesses.
 
 Data will be collected through an online survey, yelp and google api(s). 
 
