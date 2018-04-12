@@ -1,0 +1,16 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,Harbor Barber,Barbers,5.0 star rating,178 reviews,$$,Moderate,"17212 Pacific Coast HwySte BHuntington Beach, CA 92649",(714) 907-0232,harborbarberhb.com
+1,Main Street Barber Shop,Barbers,4.5 star rating,96 reviews,$$,Moderate,"317 1/2 Main StSeal Beach, CA 90740",(562) 430-0236,no website
+2,Springdale Barbers,Barbers,4.5 star rating,52 reviews,$,Inexpensive,"15792 Springdale StHuntington Beach, CA 92649",(714) 901-7110,no website
+3,Hair Safari,Barbers,5.0 star rating,58 reviews,$,Inexpensive,"5931 Warner AveHuntington Beach, CA 92649",(714) 840-1877,hairsafari.com
+4,Marina Clipper Barber Shop,Barbers,5.0 star rating,1 review,$$,Moderate,"1081 Pacific Coast HwySeal Beach, CA 90740",(562) 431-9369,no website
+5,Mario’s Sports Barbershop,Barbers,4.0 star rating,22 reviews,$,Inexpensive,"14900 Springdale StHuntington Beach, CA 92647",(714) 901-2350,mariossportsbarbershop.com
+6,The End Result,"Barbers,
+                    Hair Salons",4.5 star rating,12 reviews,$$,Moderate,"14022 Rancho RdWestminster, CA 92683",(714) 892-0313,no website
+7,Studio Fifty Fifty,"Hair Salons,
+                    Nail Salons,
+                    Eyelash Service",4.5 star rating,390 reviews,$$,Moderate,"5050 Heil AveHuntington Beach, CA 92649",(714) 840-9777,studiofiftyfifty.com
+8,Salon M,Hair Salons,4.5 star rating,129 reviews,$$,Moderate,"16561 Bolsa Chica StSte 203Huntington Beach, CA 92649",(714) 377-1000,salon-m.net
+9,Salon Meritage,"Hair Salons,
+                    Eyebrow Services,
+                    Waxing",5.0 star rating,49 reviews,$$,Moderate,"500 E Pacific Coast HwySte 100Seal Beach, CA 90740",(562) 493-2639,salonmeritage.com
