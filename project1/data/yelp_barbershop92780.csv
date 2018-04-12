@@ -1,0 +1,22 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,Justin’s Barber Shop,Barbers,4.5 star rating,148 reviews,$,Inexpensive,"13762 Newport AveSte BTustin, CA 92780",(714) 852-3902,no website
+1,i Barber,Barbers,4.5 star rating,144 reviews,$,Inexpensive,"622 E 1st AveTustin, CA 92780",(714) 760-4091,no website
+2,Modern Barber,Barbers,4.5 star rating,143 reviews,$$,Moderate,"139 W 1st StTustin, CA 92780",(714) 838-8621,modernbarber.net
+3,Louie’s Barber Shop,Barbers,4.5 star rating,26 reviews,$,Inexpensive,"414 E 1st StTustin, CA 92780",(714) 731-9119,no website
+4,Affiliated Barber Shop,Barbers,4.5 star rating,190 reviews,$$,Moderate,"2521 N Grand AveSte ESanta Ana, CA 92705",(714) 805-1431,no website
+5,Black Steel Barbershop,Barbers,4.5 star rating,47 reviews,$$,Moderate,Located inUnion Market,(949) 239-8937,blacksteelbarbershop.com
+6,Good Fellaz Barber Shop,Barbers,4.5 star rating,251 reviews,$$,Moderate,"617 W 17th StSanta Ana, CA 92706",(657) 600-8551,goodfellazbarbershop.com
+7,George’s Barbershop,Barbers,4.5 star rating,38 reviews,$,Inexpensive,"2315 17th StUnit 1Santa Ana, CA 92705",(714) 333-7239,no website
+8,American Barbershop,Barbers,4.0 star rating,234 reviews,$$,Moderate,"320 E 4th StSanta Ana, CA 92701",(714) 550-7430,americanbarbershop.com
+9,Santana Barber Shop,Barbers,4.0 star rating,11 reviews,$,Inexpensive,"826 E 4th StSanta Ana, CA 92701",(714) 875-0368,no website
+10,Plaza Barber Center,Barbers,3.5 star rating,13 reviews,$,Inexpensive,"1072 Walnut AveTustin, CA 92780",(714) 544-2964,no website
+11,4 Aces Barber Shop,Barbers,5.0 star rating,33 reviews,$,Inexpensive,"3122 E Chapman AveOrange, CA 92869",(657) 262-1002,4-aces-barber-shop.business.s…
+12,Floyd’s 99 Barbershop,"Barbers,
+                    Men's Hair Salons",4.0 star rating,161 reviews,$$,Moderate,"12872 Newport AvenueTustin, CA 92780",(714) 509-5830,floydsbarbershop.com
+13,PrimeTime Barbershop,Barbers,3.5 star rating,25 reviews,$,Inexpensive,"1911 S Main StSanta Ana, CA 92707",(714) 850-1878,no website
+14,Omar the Barber,Barbers,4.5 star rating,305 reviews,$,Inexpensive,"13925 Yale AveKija Hair SalonIrvine, CA 92620",(714) 618-1133,omarthebarber.com
+15,Stonecreek Plaza Barber Shop,Barbers,5.0 star rating,137 reviews,$,Inexpensive,Located inStonecreek Plaza,(949) 786-6404,stonecreekplazabarbershop.com
+16,The Main Cave Barbershop,Barbers,4.5 star rating,25 reviews,$$,Moderate,"307 N Main StSanta Ana, CA 92701",(657) 245-3324,no website
+17,Vatican Barbershop VTCN,Barbers,4.5 star rating,75 reviews,$$,Moderate,"103 E City Place DrSanta Ana, CA 92705",(657) 247-0247,vtcn.resurva.com
+18,Blazing Fades Barbershop,Barbers,4.0 star rating,61 reviews,$$,Moderate,"2705 N Grand AveSanta Ana, CA 92705",(714) 943-4643,blazingfadesbarbershop.com
+19,El Catrin Barbershop,Barbers,4.5 star rating,169 reviews,$$,Moderate,"400 W 4th StSte BSanta Ana, CA 92701",(714) 558-3948,barberiaelcatrin.com
