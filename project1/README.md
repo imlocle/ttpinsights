@@ -38,3 +38,9 @@ We'll display our predictions through a dynamic, interactive Shiny Dashboard.
 <hr>
 
 ![title](images/barbershop2.jpg)
+<br>
+
+## Copyright
+
+DPS Insights (C) 2018. All Rights Reserved.
+
