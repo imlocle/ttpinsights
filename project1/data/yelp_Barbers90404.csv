@@ -1,0 +1,12 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,Active Barbers,Barbers,4.5 star rating,224 reviews,$$,Moderate,"2509 Wilshire BlvdSanta Monica, CA 90403",(310) 405-1781,activebarbers.com
+1,Lincoln Barbers,Barbers,4.5 star rating,107 reviews,$,Inexpensive,"1511 Lincoln BlvdSanta Monica, CA 90401",(310) 451-0990,lincolnbarbers.wordpress.com
+2,Service Station Barbers,Barbers,5.0 star rating,113 reviews,$$,Moderate,"2812 Santa Monica BlvdSanta Monica, CA 90404",(310) 866-8571,no website
+3,Lloyd’s Barbershop,Barbers,5.0 star rating,136 reviews,$$,Moderate,"101 Wilshire BlvdSanta Monica, CA 90401",(310) 319-3138,lloydsbarbershop.com
+4,Berkeley Barbers,Barbers,4.5 star rating,130 reviews,$,Inexpensive,"2812 Santa Monica BlvdSanta Monica, CA 90404",(310) 828-1111,angelosbarbershops.com
+5,Manly & Sons Barber Co.,Barbers,4.5 star rating,44 reviews,$$,Moderate,"322 Lincoln BlvdVenice, CA 90291",(310) 314-3134,manlyandsons.com
+6,Eddie’s Barbershop,"Barbers,
+                    Hair Salons",4.0 star rating,75 reviews,$$,Moderate,"2305 Wilshire BlvdSanta Monica, CA 90403",(424) 744-8058,eddiesbarbershopsm.com
+7,Cuttin Up,Barbers,4.0 star rating,15 reviews,$,Inexpensive,"1802 BroadwaySanta Monica, CA 90404",(310) 461-9053,no website
+8,Tel’s Barber Shop,Barbers,4.5 star rating,120 reviews,$,Inexpensive,"2210 Pico BlvdSanta Monica, CA 90405",(310) 450-7514,no website
+9,Soto Barber Shop,Barbers,5.0 star rating,22 reviews,$,Inexpensive,"1865 Lincoln BlvdSte 6Santa Monica, CA 90404",(424) 268-7578,sotobarber.com

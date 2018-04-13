@@ -1,0 +1,11 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,i Barber,Barbers,4.5 star rating,144 reviews,$,Inexpensive,"622 E 1st AveTustin, CA 92780",(714) 760-4091,no website
+1,San Diego Barbers,Barbers,5.0 star rating,24 reviews,$,Inexpensive,"3825 El Cajon BlvdSan Diego, CA 92105",(619) 319-7571,no website
+2,Solidarity Barbershop,Barbers,5.0 star rating,37 reviews,$$,Moderate,"20469 Yorba Linda BlvdYorba Linda, CA 92886",(714) 399-5055,solidaritybarbershop.com
+3,Eli Alexander Salon,Hair Salons,5.0 star rating,32 reviews,$$,Moderate,"31103 Rancho Viejo RdSan Juan Capistrano, CA 92675",(949) 830-4949,ea-salon.com
+4,Pineapples Barbershop,Barbers,5.0 star rating,73 reviews,$$,Moderate,"565 S Euclid StFullerton, CA 92832",(714) 869-1540,getpineappled.com
+5,JDM Salon,Hair Salons,4.5 star rating,155 reviews,$$,Moderate,"8555 Fletcher PkwySte 100La Mesa, CA 91942",(619) 668-2929,jdmsalon.com
+6,Minjoo Hair @Sola salons,Hair Stylists,5.0 star rating,40 reviews,$$,Moderate,"2801 El Camino RealSte 3Tustin, CA 92782",(714) 319-5099,no website
+7,American Deluxe Barber Shop,Barbers,4.5 star rating,110 reviews,$,Inexpensive,"116 Encinitas BlvdEncinitas, CA 92024",(760) 943-9450,americandeluxebarbershop.com
+8,Danckuts,"Barbers,
+                    Men's Hair Salons",5.0 star rating,47 reviews,$$,Moderate,"23024 Lake Forest DrUnit FLaguna Hills, CA 92653",(949) 441-9933,danckuts.com

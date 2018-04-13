@@ -1,0 +1,10 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,The Right Hair Salon,Hair Salons,5.0 star rating,44 reviews,$$,Moderate,"23691 Via LindaMission Viejo, CA 92691",(949) 707-1200,therighthairsalon.com
+1,Fantastic Sams,Hair Salons,3.0 star rating,43 reviews,$$,Moderate,"17655-E Harvard AveIrvine, CA 92614",(949) 756-8665,fantasticsams.com
+2,Alberto’s Barber Shop,Barbers,4.5 star rating,34 reviews,$$,Moderate,"919 Otay Lakes RdChula Vista, CA 91913",(619) 421-5955,no website
+3,Wow Cuts,Hair Salons,4.0 star rating,49 reviews,$,Inexpensive,"14568 Pipeline AveChino, CA 91710",(909) 606-2773,no website
+4,Fantastic Sams,Hair Salons,3.5 star rating,15 reviews,$,Inexpensive,"4271 Tierra Rejada RdMoorpark, CA 93021",(805) 552-9524,fantasticsams.com
+5,True School Barbershop,Barbers,4.0 star rating,125 reviews,$$,Moderate,"7490 La Palma AveSte BBuena Park, CA 90620",(714) 952-1327,no website
+6,Basic Barber,Barbers,4.5 star rating,138 reviews,$$,Moderate,"3021 Harbor BlvdSte ACosta Mesa, CA 92626",(714) 714-0374,basicbarber.com
+7,Stonecreek Plaza Barber Shop,Barbers,5.0 star rating,137 reviews,$,Inexpensive,Located inStonecreek Plaza,(949) 786-6404,stonecreekplazabarbershop.com
+8,The Best Barber Shop,Barbers,4.0 star rating,45 reviews,$,Inexpensive,"11065 Balboa BlvdGranada Hills, CA 91344",(818) 363-0509,no website

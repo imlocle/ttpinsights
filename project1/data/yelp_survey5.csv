@@ -1,0 +1,10 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,One Stop Hair Design,Hair Salons,4.0 star rating,132 reviews,$,Inexpensive,"3119 San Gabriel BlvdSte ARosemead, CA 91770",(626) 572-4792,no website
+1,the house salon,Hair Salons,5.0 star rating,151 reviews,$$,Moderate,"23981 Alicia PkwySte 170Mission Viejo, CA 92691",(949) 380-2677,thehousesalon.com
+2,Today Barber,Barbers,4.5 star rating,192 reviews,$,Inexpensive,"2075 Newport BlvdSte 102Costa Mesa, CA 92627",(949) 631-6419,no website
+3,East-West Hair,Hair Salons,4.5 star rating,136 reviews,$$,Moderate,"675 Paularino AveSte 4Costa Mesa, CA 92626",(714) 751-0151,no website
+4,Logan Bros Shaving,Barbers,4.5 star rating,178 reviews,$$,Moderate,"45 Vantis DrAliso Viejo, CA 92656",(949) 305-2991,loganbros.com
+5,Great Clips,Hair Salons,3.0 star rating,153 reviews,$,Inexpensive,"4513 Campus DrIrvine, CA 92612",(949) 854-4338,greatclips.com
+6,Normal Heights Barbershop,Barbers,4.5 star rating,135 reviews,$$,Moderate,"4684 Mansfield StSan Diego, CA 92116",(619) 564-8942,normalheightsbarbershop.com
+7,Strait Up Barber Shop,Barbers,4.5 star rating,153 reviews,$,Inexpensive,"337 S Brea BlvdBrea, CA 92821",(714) 529-1965,no website
+8,Supercuts,Hair Salons,4.0 star rating,37 reviews,$,Inexpensive,"4854 Valley View AveYorba Linda CenterYorba Linda, CA 92886",(714) 660-6002,supercuts.com
