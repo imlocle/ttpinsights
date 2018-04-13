@@ -1,0 +1,15 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,TONI&GUY Hairdressing Salon,Hair Salons,4.5 star rating,246 reviews,$$$,Pricey,"1165 Newport Center DrFashion IslandNewport Beach, CA 92660",(949) 721-1666,toniguy.com/hair-salons/newpo…
+1,Nolan the Barber,Barbers,5.0 star rating,1 review,$$,Moderate,"2614 Pocatello AveRowland Heights, CA 91748",(714) 883-0421,no website
+2,The Ivy Salon and Spa,"Hair Salons,
+                    Skin Care,
+                    Permanent Makeup",4.5 star rating,90 reviews,$$,Moderate,"18607 Brookhurst StFountain Valley, CA 92708",(714) 962-0100,theivysalon.org
+3,William’s Barber Shop,"Barbers,
+                    Hair Stylists",4.0 star rating,182 reviews,$,Inexpensive,"9750 Chapman AveGarden Grove, CA 92841",(714) 539-3995,no website
+4,AKA Salon,"Hair Salons,
+                    Eyelash Service",4.5 star rating,65 reviews,$$,Moderate,"2626 Dupont DrSte A-30Irvine, CA 92612",(949) 309-2462,akahairsalon.com
+5,Shear Bliss Salon,"Hair Salons,
+                    Day Spas",4.5 star rating,215 reviews,$$,Moderate,"290A S Prospect AveTustin, CA 92780",(714) 486-1820,shearblissoc.com
+6,Rex Hair Salon,Hair Salons,3.5 star rating,31 reviews,$,Inexpensive,"8944 Bolsa AveWestminster, CA 92683",(714) 373-1413,no website
+7,Bolsa Chica Barber Shop,Barbers,5.0 star rating,14 reviews,$$,Moderate,"17610 Beach BlvdSte 35Huntington Beach, CA 92647",(714) 801-4742,ussbolsachica.com
+8,Fantastic Sams,Hair Salons,3.5 star rating,60 reviews,$$,Moderate,"7777 Edinger AveSte E104Huntington Beach, CA 92647",(714) 799-0700,fantasticsams.com

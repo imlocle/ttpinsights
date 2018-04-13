@@ -1,0 +1,11 @@
+,BusinessName,BusinessCategory,YelpRating,ReviewCount,PriceRange($),PriceCategory,Address,Phone,Website
+0,Ulta Beauty,"Cosmetics & Beauty Supply,
+                    Hair Salons,
+                    Skin Care",2.5 star rating,152 reviews,$$,Moderate,"13676 Jamboree RdIrvine, CA 92602",(714) 573-2675,ulta.com
+1,Supercuts,Hair Salons,3.5 star rating,26 reviews,$$,Moderate,"1023 N Harbor BlvdLamancha Shopping CenterFullerton, CA 92832",(714) 870-8882,supercuts.com
+2,Standard Barbershop,Barbers,4.5 star rating,174 reviews,$$,Moderate,"8937 Reseda BlvdLos Angeles, CA 91324",(818) 727-7710,standard-barbershop.com
+3,Supercuts,Hair Salons,4.0 star rating,39 reviews,$,Inexpensive,"13434 Newport AveTustinTustin, CA 92780",(714) 731-4511,supercuts.com
+4,Dinks Barbershop & Supply,Barbers,4.5 star rating,99 reviews,$,Inexpensive,"3215 Adams AveSte BSan Diego, CA 92116",(619) 379-8934,dinksbarbershop.com
+5,Sunny Hills Barber Shop Brea,Barbers,4.5 star rating,32 reviews,$,Inexpensive,"794 N Brea BlvdBrea, CA 92821",(714) 353-9619,no website
+6,Supercuts,Hair Salons,4.0 star rating,103 reviews,$,Inexpensive,"Aliso Town Ctr26921 Aliso Creek Rd Ste HAliso Viejo, CA 92656",(949) 360-9912,supercuts.com
+7,Wally’s Barber Shop,Barbers,4.5 star rating,14 reviews,$,Inexpensive,"214 Beach StLaguna Beach, CA 92651",(949) 494-3821,no website
