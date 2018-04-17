@@ -24,7 +24,7 @@ We'll utilize Python to scrape, clean and organize our data.
 
 Our datasets will then be used to train a predictive model in R and Python.
 
-We'll display our predictions through a dynamic, interactive Shiny Dashboard.
+We'll display our predictions through a dynamic, interactive Power BI Dashboard.
 
 <hr>
 
