@@ -1,5 +1,6 @@
 import re
-
+from bs4 import BeautifulSoup
+import requests
 
 """
 This function is to parse out content using a regular expression pattern from a string.
