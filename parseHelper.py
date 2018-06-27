@@ -8,5 +8,9 @@ This function is to parse out content using a regular expression pattern from a 
 <param>string</param>
 """
 def parse_definition(regex_pattern, string):
-    i = re.compile(regex_pattern, flags=re.MULTILINE|re.DOTALL)
-    return i.search(string).group(1)
+    result = re.compile(regex_pattern, flags=re.MULTILINE|re.DOTALL)
+    # Checking if the patten works for the string
+    if not result.search(string):
+        return "None"
+    else:
+        return result.search(string).group(1)
