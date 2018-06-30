@@ -61,18 +61,18 @@ review_pages = 1
 
 
 ```python
-print(total_reviews)
-print(max_pages_to_scrape)
+print(f"Total Reviews: {total_reviews}")
+print(f"Expected Review Pages: {max_pages_to_scrape}")
 ```
 
-    70
-    4
+    Total Reviews: 70
+    Expected Review Pages: 4
 
 
 
 ```python
 while review_pages <= max_pages_to_scrape:
-    print(review_pages)
+    print(f"Review Page: {review_pages}")
     yelp_reviews = soup.find_all("div", attrs={'class': 'review review--with-sidebar'})
     #looping through each review to get the content
     for i in yelp_reviews:
@@ -109,24 +109,24 @@ while review_pages <= max_pages_to_scrape:
         break
 ```
 
-    1
-    2
-    3
-    4
+    Review Page: 1
+    Review Page: 2
+    Review Page: 3
+    Review Page: 4
 
 
 
 ```python
 # Checking how many users
 # Length should match total_reviews
-len(my_dict["user"])
+users = my_dict["user"]
+if len(users) != total_reviews:
+    print(f"Please check crawler. Length of users, {len(users)}, don't match total reviews, {total_reviews}.")
+else:
+    print(f"Scrape completed! Length of users, {len(users)}, matches with the total reviews, {total_reviews}.")
 ```
 
-
-
-
-    70
-
+    Scrape completed! Length of users, 70, matches with the total reviews, 70.
 
 
 
